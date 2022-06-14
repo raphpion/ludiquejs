@@ -1,6 +1,6 @@
 {
   "name": "@raphpion/ludiquejs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An Open-Source JavaScript Library for building 2D Games on the Web.",
   "devDependencies": {
     "typescript": "^4.7.3"
